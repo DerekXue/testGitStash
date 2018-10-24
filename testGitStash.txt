@@ -1,2 +1,6 @@
 123ABC
+<<<<<<< Updated upstream
 Stashed Ver 2...
+=======
+Stashed Ver 2
+>>>>>>> Stashed changes
